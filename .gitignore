@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+test/10s.json
+test/10s.awf.json
+test/10s.png

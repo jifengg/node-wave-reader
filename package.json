@@ -1,0 +1,31 @@
+{
+    "name": "node-wave-reader",
+    "version": "0.0.5",
+    "description": "a wave file (.wav) reader,written in nodejs.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jifengg/node-wave-reader.git"
+    },
+    "keywords": [
+        "node-wave-reader",
+        "wave-reader",
+        "wave"
+    ],
+    "author": "jifengg",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/jifengg/node-wave-reader/issues"
+    },
+    "homepage": "https://github.com/jifengg/node-wave-reader#readme",
+    "files": [
+        "index.js",
+        "index.d.ts"
+    ],
+    "dependencies": {
+        "node-async-stream-reader": "^1.0.4"
+    }
+}
